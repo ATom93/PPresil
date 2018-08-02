@@ -17,7 +17,7 @@
       "valueType": "value",
       "description": "Bounding Box with order west,south,east,north",
       "name": "Bounding Box",
-      "obligation": true,
+      "obligation": false,
       "hasDefault": false,
       "valueSchema": "url",
       "target": "/BBfile.txt"
